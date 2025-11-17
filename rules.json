@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "id": "moon_sign",
+      "description": "Moon sign is determined by Moon longitude in tropical zodiac; each sign spans 30°."
+    },
+    {
+      "id": "nakshatra",
+      "description": "Nakshatra computed by splitting 360° into 27 parts (~13.333° each)."
+    },
+    {
+      "id": "manglik",
+      "description": "Manglik if Mars is in houses 1,2,4,7,8,12 from Ascendant OR from Moon."
+    }
+  ]
+}

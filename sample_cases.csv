@@ -1,0 +1,2 @@
+name,birth_date_time,timezone_offset_hours,lat,lon,expected_moon_sign,expected_manglik
+Test1,1990-08-15 06:30,5.5,22.5726,88.3639,TBD,Yes/No
